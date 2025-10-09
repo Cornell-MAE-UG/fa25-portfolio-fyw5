@@ -3,9 +3,7 @@ layout: project
 title: Lift Mechanism
 description: Mechanical lift
 technologies: [Statics]
-image: /assets/images/IMG_7549.jpeg
+image: Cornell-MAE-UG/fa25-portfolio-fyw5/assets/images/IMG_7549.jpeg
 ---
 
 For ENGRD 2020, Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports of which two need to be mounted on the ground and a linear actuator, design a frame/mechanism to lift the maximum possible weight to the highest possible height. Assume all the supports and bar/actuator are rigid.
-
-
