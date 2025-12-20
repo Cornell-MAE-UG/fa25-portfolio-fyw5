@@ -5,23 +5,25 @@ description: Experimenting with a Heat Exchanger
 image: /assets/images/heat.jpg
 ---
 
-Parallel vs Anti-Parallel Flow in Heat Exchanger
-Heat Exchanger: A heat exchanger is a device that allows thermal energy to be transferred between two fluids without the fluids mixing, by passing them by each other through two sides of a conducting surface. One fluid is hotter (in our experiment, red) and releases heat; the other is colder (blue) and absorbs heat.
+**Parallel vs Anti-Parallel Flow in Heat Exchanger**\
+
+Heat Exchanger: A heat exchanger is a device that allows thermal energy to be transferred between two fluids without the fluids mixing, by passing them by each other through two sides of a conducting surface. One fluid is hotter (in our experiment, red) and releases heat; the other is colder (blue) and absorbs heat.\
 
 Change in Design: We decided to observe the differences between parallel and anti-parallel flow.
 Parallel flow: Both fluids enter at the same end and flow in the same direction.
-Anti-parallel flow: Fluids enter from opposite ends and flow against each other.
+Anti-parallel flow: Fluids enter from opposite ends and flow against each other.\
+
 Photos:
 /assets/images/Image_20251220_154438_154.jpeg
 Photo: Experimental setup with parallel tubing.
 /assets/images/Image_20251220_154437_979.jpeg
-Photo: Experimental setup with anti-parallel tubing.
+Photo: Experimental setup with anti-parallel tubing.\
 
 System Diagram:
 The CV consists of the heat exchanger itself.
 Hot stream enters with mass flow rate mh and temperature Th,in and exits at Th,out.
 Cold stream enters with mc and Tc,in and exits at Tc,out.
-There is no shaft work, significant KE, or PE.
+There is no shaft work, significant KE, or PE.\
 
 Relevant equations:
 Mass Balance
@@ -34,7 +36,7 @@ For s.s. w/ negligible external heat loss: Ṡgen = ṁh (sh,out – sh,in) + m�
 For liquids: sout – sin = cp ln(Tout / Tin)
 Because heat transfer occurs across a finite temperature difference, entropy is generated. 
 Performance Comparison: Parallel vs. Anti-Parallel Flow
-Effectiveness  = Q̇actual / Q̇max; Q̇max = Cmin (Th,in – Tc,in) and C = ṁ cp.
+Effectiveness  = Q̇actual / Q̇max; Q̇max = Cmin (Th,in – Tc,in) and C = ṁ cp.\
 
 Data:
 Parallel
@@ -47,7 +49,7 @@ Anti-Parallel
 Th,in (°C):37.5
 Tc,in: 8
 Th,out: 20.4
-Tc,out: 25.6
+Tc,out: 25.6\
 
 
 			
