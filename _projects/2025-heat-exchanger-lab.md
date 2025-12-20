@@ -23,7 +23,7 @@ Hot stream enters with mass flow rate mh and temperature Th,in and exits at Th,o
 Cold stream enters with mc and Tc,in and exits at Tc,out.
 There is no shaft work, significant KE, or PE.
 
-Relevant equations
+Relevant equations:
 Mass Balance
 For incompressible water: ṁin = ṁout; ṁh = constant and ṁc = constant.
 Energy Balance
@@ -38,25 +38,17 @@ Effectiveness  = Q̇actual / Q̇max; Q̇max = Cmin (Th,in – Tc,in) and C = ṁ
 
 Data:
 Parallel
-Th,in (°C)
-Tc,in
-Th,out
-Tc,out
-37.6
-10.5
-26
-23.4
-
+Th,in (°C): 37.6
+Tc,in: 10.5
+Th,out: 26
+Tc,out: 23.4
 
 Anti-Parallel
-Th,in (°C)
-Tc,in
-Th,out
-Tc,out
-37.5
-8
-20.4
-25.6
+Th,in (°C):37.5
+Tc,in: 8
+Th,out: 20.4
+Tc,out: 25.6
+
 
 			
 Results:
