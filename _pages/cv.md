@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Felicity Wu - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,23 +8,23 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [fyw5@cornell.edu](mailto:fyw5@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring mechanical engineering student that is passionate about human centered design and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.6/4.0 | Graduation: June, 2028
 
-- **[High School Name]**  
+- **[Bronx High School of Science]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [July, 2024]
 
 ---
 
@@ -36,15 +36,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
+- **[Olfactory Display]**:  
+  *[]*  
   - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
