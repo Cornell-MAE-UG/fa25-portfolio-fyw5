@@ -12,9 +12,9 @@ Change in Design: We decided to observe the differences between parallel and ant
 Parallel flow: Both fluids enter at the same end and flow in the same direction.
 Anti-parallel flow: Fluids enter from opposite ends and flow against each other.
 Photos:
-/assets/images/anti-p.jpeg
+/assets/images/Image_20251220_154438_154.jpeg
 Photo: Experimental setup with parallel tubing.
-/assets/images/p.jpeg
+/assets/images/Image_20251220_154438_154.jpeg
 Photo: Experimental setup with anti-parallel tubing.
 
 System Diagram:
