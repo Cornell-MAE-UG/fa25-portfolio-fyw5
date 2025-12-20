@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Felicity Wu's Website!>
 ---
 
 ## About Me
