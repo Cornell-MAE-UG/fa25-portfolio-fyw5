@@ -14,7 +14,7 @@ Anti-parallel flow: Fluids enter from opposite ends and flow against each other.
 Photos:
 /assets/images/Image_20251220_154438_154.jpeg
 Photo: Experimental setup with parallel tubing.
-/assets/images/Image_20251220_154438_154.jpeg
+/assets/images/Image_20251220_154437_979.jpeg
 Photo: Experimental setup with anti-parallel tubing.
 
 System Diagram:
