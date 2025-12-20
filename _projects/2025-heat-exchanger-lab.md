@@ -2,7 +2,7 @@
 layout: project
 title: Heat Exchanger Lab
 description: Experimenting with a Heat Exchanger
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/heat.jpg
 ---
 
 Parallel vs Anti-Parallel Flow in Heat Exchanger
