@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Felicity Wu's Website!>
+title: Felicity Wu's Website!
 ---
 
 ## About Me
@@ -15,4 +15,4 @@ Combining my passion for creativity and impact with my love for STEM, I discover
 
 At Cornell, I am a part of CUXR (Cornell Extended Reality), the Society of Asian Scientists and Engineers (SASE), the Engineering Leadership Certification Program, and Anabel's Grocery. I have also taken courses such as Thermodynamics, Statics, Physics II: Electricity & Magnetism, Physics I: Mechanics, Differential Equations, and more!
 
-Take a look at <a href="{{ "/projects/" | 2025-heat-exchanger-lab.md }}">my projects!</a> 
+Take a look at <a href="{{ "/projects/" | projects.md }}">my projects!</a> 
