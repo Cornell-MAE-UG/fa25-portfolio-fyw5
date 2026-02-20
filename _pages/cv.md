@@ -22,9 +22,9 @@ Aspiring mechanical engineering student that is passionate about human centered 
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.6/4.0 | Graduation: June, 2028
 
-- **[Bronx High School of Science]**  
+- **Bronx High School of Science**  
   *High School Diploma*  
-  Graduation: [July, 2024]
+  Graduation: July, 2024
 
 ---
 
@@ -35,34 +35,20 @@ Aspiring mechanical engineering student that is passionate about human centered 
 
 ---
 
-#### Projects
-- **[Olfactory Display]**:  
-  *[]*  
-  - Key Achievement 1  
-
----
-
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **DCIM Intern**  
+  Jun 2025-Aug 2025  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- OSHA 10 Hour 
+- Engineering Leadership Certification
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
+- External VP of SASE
+- Marketing Coordinator at Anabel's
 
 ---
