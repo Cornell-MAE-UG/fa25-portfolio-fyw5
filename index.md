@@ -6,7 +6,7 @@ title: <Felicity Wu's Website!>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/IMG-7549.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/fyw5-headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
 Hello! My name is Felicity Wu, and I am a Sophomore at Cornell University majoring in Mechanical Engineering and based in New York City. Growing up, I was always drawn to creating: Whether it be drawing in my art class, building a random craft kit, or bullet journaling in my free time, I have done (and loved) it all! Through exploring these various sidequests, I have learned how powerful creativity can be in shaping the world around us. As a creative-minded individual, I am passionate about using my skills toward solving meaningful problems and contributing to society in impactful ways. 
