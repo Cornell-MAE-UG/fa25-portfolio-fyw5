@@ -17,19 +17,19 @@ Change in Design: We decided to observe the differences between parallel and ant
 Parallel flow: Both fluids enter at the same end and flow in the same direction.
 Anti-parallel flow: Fluids enter from opposite ends and flow against each other.\
 
-Photos:
+**Photos:**
 ![Experimental setup with parallel tubing]({{ "/assets/images/Image_20251220_154438_154.jpeg" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 ![Photo: Experimental setup with anti-parallel tubing.]({{ "/assets/images/Image_20251220_154437_979.jpeg
 " | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 
 
-System Diagram:
+**System Diagram:**
 The CV consists of the heat exchanger itself.
 Hot stream enters with mass flow rate mh and temperature Th,in and exits at Th,out.
 Cold stream enters with mc and Tc,in and exits at Tc,out.
 There is no shaft work, significant KE, or PE.
 
-Relevant equations:
+**Relevant equations:**
 Mass Balance
 For incompressible water: ṁin = ṁout; ṁh = constant and ṁc = constant.
 Energy Balance
@@ -42,7 +42,7 @@ Because heat transfer occurs across a finite temperature difference, entropy is 
 Performance Comparison: Parallel vs. Anti-Parallel Flow
 Effectiveness  = Q̇actual / Q̇max; Q̇max = Cmin (Th,in – Tc,in) and C = ṁ cp.
 
-Data:
+**Data:**
 Parallel
 Th,in (°C): 37.6
 Tc,in: 10.5
@@ -57,6 +57,6 @@ Tc,out: 25.6
 
 
 			
-Results:
+**Results:**
 Overall, our results show that running the flow Anti-Parallel is more effective than running the flow Parallel in a heat exchanger. This makes sense because when running the flow anti-parallel,  the fluids are maintaining a higher temperature difference for longer, as well as lower entropy generation, making it the thermodynamically superior design.
 In addition, although it looked like a law of Thermodynamics was violated in the anti-parallel trial because the hot outlet (20.4 °C) was colder than the cold outlet (25.6 °C), we came up with some reasoning as to why that might have happened. In the first parallel trial, the cold outlet warmed up over time. Then, in the anti-parallel trial, that warmed water entered the system, and because the outlets in a counter-flow arrangement are on opposite ends, the cold water leaving near the hot inlet can end up warmer than the hot water leaving near the cold inlet.
