@@ -3,12 +3,9 @@ layout: default
 title: Felicity Wu - Curriculum Vitae
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Resume
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
-
-
-**Email:** [fyw5@cornell.edu](mailto:fyw5@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [fyw5@cornell.edu](mailto:fyw5@cornell.edu) 
 
 ---
 
@@ -20,7 +17,7 @@ Aspiring mechanical engineering student that is passionate about human centered 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.6/4.0 | Graduation: June, 2028
+  GPA: 3.3/4.0 | Graduation: June, 2028
 
 - **Bronx High School of Science**  
   *High School Diploma*  

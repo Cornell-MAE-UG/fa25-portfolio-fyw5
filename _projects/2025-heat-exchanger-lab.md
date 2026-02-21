@@ -3,6 +3,10 @@ layout: project
 title: Heat Exchanger Lab
 description: Experimenting with a Heat Exchanger
 image: /assets/images/heat.jpg
+fontsize: 11pt
+geometry: margin=1in
+papersize: letter
+pagestyle: empty
 ---
 
 **Parallel vs Anti-Parallel Flow in Heat Exchanger**\
