@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Felicity - Portfolio
+title: Felicity Wu - Portfolio
 permalink: /projects/
 ---
 
