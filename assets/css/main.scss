@@ -40,6 +40,15 @@ main .container {
   background: #111827;
   color: #e5e7eb;
 }
+
+img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
 .project-img {
   max-width: 500px;
   width: 100%;
