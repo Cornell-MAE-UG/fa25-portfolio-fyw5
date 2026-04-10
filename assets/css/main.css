@@ -103,6 +103,11 @@ img {
   height: auto;
   border-radius: 12px;
 }
+.content-card {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2.5rem;
+}
 
 @media (max-width: 767px) {
   main .container {
