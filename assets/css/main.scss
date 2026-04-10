@@ -40,8 +40,14 @@ main .container {
   background: #111827;
   color: #e5e7eb;
 }
-img {
-  max-width: 100%;
+.project-img {
+  max-width: 500px;
+  width: 100%;
   height: auto;
-  border-radius: 12px;
+
+  display: block;
+  margin: 2rem auto; // 👈 THIS centers it
+
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
 }
