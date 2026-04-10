@@ -13,6 +13,6 @@ Hello! My name is Felicity Wu, and I am a Sophomore at Cornell University majori
 
 Combining my passion for creativity and impact with my love for STEM, I discovered mechanical engineering, which is the perfect crossway that connects all my interests in a way that is meaningful to me. I am excited to further develop my professional skill set, explore opportunities to apply my knowledge to impactful projects, and grow throughout my time at Cornell.
 
-At Cornell, I am a part of CUXR (Cornell Extended Reality), the Society of Asian Scientists and Engineers (SASE), the Engineering Leadership Certification Program, and Anabel's Grocery. I have also taken courses such as Thermodynamics, Statics, Physics II: Electricity & Magnetism, Physics I: Mechanics, Differential Equations, and more!
+At Cornell, I am a part of CUXR (Cornell Extended Reality), the Society of Asian Scientists and Engineers (SASE), the Engineering Leadership Certification Program, and Anabel's Grocery. I have also taken courses such as Mechanical Design, Dynamics, Architectural Robotics, Thermodynamics, Statics, Physics II: Electricity & Magnetism, Physics I: Mechanics, Differential Equations, and more!
 
 Take a look at <a href="https://cornell-mae-ug.github.io/fa25-portfolio-fyw5/projects/">my projects!</a> 
