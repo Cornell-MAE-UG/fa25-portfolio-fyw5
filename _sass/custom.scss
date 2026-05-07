@@ -22,17 +22,23 @@ body {
 }
 
 // Center only regular paragraph text
-p {
+.container > p,
+main > p,
+section > p {
   text-align: center;
 }
 
-// Keep bullet and numbered lists left-aligned
 ul, ol {
   text-align: left;
+  display: table;
+  margin: 0 auto 1rem auto;
+  padding-left: 1.5rem;
 }
 
-// Keep individual bullet text left-aligned
-li {
+li,
+li p,
+ul p,
+ol p {
   text-align: left;
 }
 
