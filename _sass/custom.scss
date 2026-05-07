@@ -204,3 +204,41 @@ footer {
   transform: translateX(-4px);
 }
 
+/* Center normal paragraph text only */
+p {
+  text-align: center;
+}
+
+/* But do NOT center paragraphs inside bullet lists */
+li p,
+ul p,
+ol p {
+  text-align: left !important;
+}
+
+/* Make bullet/numbered lists centered as a block, but left-aligned inside */
+ul,
+ol {
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  text-align: left !important;
+}
+
+/* Force list items and anything inside them to align left */
+li,
+li *,
+ul li,
+ol li,
+ul li *,
+ol li * {
+  text-align: left !important;
+}
+
+/* Optional: keeps list item paragraphs from creating weird centered blocks */
+li p {
+  margin: 0;
+}
+
