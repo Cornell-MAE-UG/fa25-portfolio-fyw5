@@ -103,10 +103,31 @@ img {
   height: auto;
   border-radius: 12px;
 }
+
 .content-card {
   max-width: 800px;
   margin: 0 auto;
   padding: 2.5rem;
+}
+
+/* Lists left-aligned */
+ul,
+ol {
+  text-align: left !important;
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  text-align: left !important;
+  margin-bottom: 0.35rem;
+}
+
+/* Anything inside list items should also stay left-aligned */
+li *,
+ul li *,
+ol li * {
+  text-align: left !important;
 }
 
 @media (max-width: 767px) {
